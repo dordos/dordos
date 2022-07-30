@@ -1,4 +1,4 @@
-# DohyunPark 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=20&section=header&text=%20&fontSize=20)
 
 <!--
 **dordos/dordos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
