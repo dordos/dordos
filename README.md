@@ -4,9 +4,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dordos&theme=onedark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 ## Dohyun
-  <a herf="https://dordos.github.io/portfolio">
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
+  
+  <a herf="https://dordos.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://dordos.github.io/portfolio"/>
   </a>
+  
+
   
 <!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
