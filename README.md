@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdordos&count_bg=%23303030&title_bg=%23212121&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://https://github.com/dordos)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdordos&count_bg=%23303030&title_bg=%23212121&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/dordos)
 
 </div>
 
