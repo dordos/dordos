@@ -5,11 +5,16 @@
 
 ## Dohyun
 
-  
+<!-- portfoilo -->  
 <a href="https://dordos.github.io/portfolio" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=href=https://dordos.github.io/portfolio"/>
-</a><a href="mailto:pdhssf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pdhssf@gmail.com"/></a>
-
+</a>
+<!-- linkedin -->  
+<a href="https://www.linkedin.com/in/do-hyun-park-a35017185" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=href=https://www.linkedin.com/in/do-hyun-park-a35017185"/>
+</a>  
+<!-- e-mail -->    
+<a href="mailto:pdhssf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pdhssf@gmail.com"/></a>
 
 
   
