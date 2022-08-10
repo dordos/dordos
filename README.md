@@ -35,13 +35,7 @@
   
 </div>
 
-<div align="center"> 
- ## Tech skills
- 
-</div>
-  
-  
- 
+
   
 
 
