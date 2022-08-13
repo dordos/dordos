@@ -17,7 +17,7 @@
 
 <div align=center>
 <a href="https://dordos.github.io/portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=href=https://dordos.github.io/portfolio"/>
+<img src="https://img.shields.io/badge/portfolio-00A98F.svg?style=for-the-badge&logo=about.me&logoColor=white&link=href=https://dordos.github.io/portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/do-hyun-park-a35017185" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=href=https://www.linkedin.com/in/do-hyun-park-a35017185"/>
@@ -25,9 +25,6 @@
 <a href="mailto:pdhssf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pdhssf@gmail.com"/>
 </a>
 </div>
- 
- 
- 
  
  
  
