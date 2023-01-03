@@ -1,3 +1,4 @@
+<!--
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdordos&count_bg=%23303030&title_bg=%23212121&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/dordos)
@@ -15,7 +16,7 @@
 - Operation Research
 - Leadership, Mentoring, Writing, Presentation
 
-<!--
+
 <div align=center>
 <a href="https://dordos.github.io/portfolio" target="_blank">
 <img src="https://img.shields.io/badge/portfolio-00A98F.svg?style=for-the-badge&logo=about.me&logoColor=white&link=href=https://dordos.github.io/portfolio"/>
