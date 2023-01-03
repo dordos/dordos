@@ -15,6 +15,7 @@
 - Operation Research
 - Leadership, Mentoring, Writing, Presentation
 
+<!--
 <div align=center>
 <a href="https://dordos.github.io/portfolio" target="_blank">
 <img src="https://img.shields.io/badge/portfolio-00A98F.svg?style=for-the-badge&logo=about.me&logoColor=white&link=href=https://dordos.github.io/portfolio"/>
@@ -25,8 +26,7 @@
 <a href="mailto:pdhssf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pdhssf@gmail.com"/>
 </a>
 </div>
- 
- 
+ -->
  
  
  
